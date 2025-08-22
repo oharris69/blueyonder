@@ -1,0 +1,18 @@
+
+@font-face {
+  font-family: Calibre;      
+  src: url('../fonts/calibre-400-normal.otf') format('otf');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: Calibre;      
+  src: url('../fonts/calibre-500-normal.otf') format('otf');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0-10FFFF;
+}
